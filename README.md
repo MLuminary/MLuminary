@@ -4,8 +4,8 @@
 
 - :computer: &nbsp; Love the Front-end
 - :office: &nbsp; Living in Shanghai
-- :headphones: &nbsp; like to listen to music
-- :video_game: &nbsp; like playing game
+- :headphones: &nbsp; Like to listen to music
+- :video_game: &nbsp; Like playing game
 
 ### :musical_keyboard: &nbsp; Code I like
 
